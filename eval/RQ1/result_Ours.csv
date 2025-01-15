@@ -1,0 +1,18 @@
+File Path,Function,Warning Message
+CVE-2021-34272.sol,owned,State variable modification without permission control.
+CVE-2018-19831.sol,Mining24,State variable modification without permission control.
+CVE-2018-19831.sol,ToOwner,State variable modification without permission control.
+CVE-2018-19830.sol,UBSexToken,State variable modification without permission control.
+CVE-2019-15078.sol,XBornID,State variable modification without permission control.
+CVE-2019-15079.sol,EAI_TokenERC20,State variable modification without permission control.
+CVE-2018-10666.sol,setOwner,State variable modification without permission control.
+CVE-2018-10705.sol,setOwner,State variable modification without permission control.
+CVE-2018-19832.sol,NETM,State variable modification without permission control.
+CVE-2018-19834.sol,increaseApproval,State variable modification without permission control.
+CVE-2018-19834.sol,quaker,State variable modification without permission control.
+CVE-2018-19833.sol,owned,State variable modification without permission control.
+CVE-2018-11329.sol,seedMarket,State variable modification without permission control.
+CVE-2018-11329.sol,DrugDealer,State variable modification without permission control.
+CVE-2019-15080.sol,owned,State variable modification without permission control.
+CVE-2021-34273.sol,owned,State variable modification without permission control.
+CVE-2020-17753.sol,addMeByRC,tx.origin vulnerability

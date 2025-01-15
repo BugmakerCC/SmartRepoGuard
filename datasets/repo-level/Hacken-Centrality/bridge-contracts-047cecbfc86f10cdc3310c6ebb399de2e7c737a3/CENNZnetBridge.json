@@ -1,0 +1,10 @@
+{
+ "filePath": "DAppSCAN-source/contracts/Hacken-Centrality/bridge-contracts-047cecbfc86f10cdc3310c6ebb399de2e7c737a3/CENNZnetBridge.sol",
+ "SWCs": [
+  {
+   "category": "SWC-105-Unprotected Ether Withdrawal",
+   "function": "setValidators",
+   "lineNumber": "L99-120"
+  }
+ ]
+}

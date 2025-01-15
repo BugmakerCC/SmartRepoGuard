@@ -1,0 +1,103 @@
+File Path,Function,Warnings,Label
+0xe4cdaeb0d81752b6d245d351d7b5880eac62e69d.sol,withdrawal ,Risky transfer without permission control. ,TP
+0xbabeF88EB340Bb2BC4E288201df0E85DBF2Dc11b.sol,Apprcve ,State variable modification without permission control. ,TP
+0xca5cB3E5bB39f87e91F809EDA6c7ea60Bfce2d52.sol,rescueERC ,State variable modification without permission control. ,TP
+0x898aaae8837b19d3ab3916eff17548e44ea7febc.sol,withdrawStuckETH ,External contract call without permission control. ,TP
+0x4721fd9b4b2402a119b90948a4df1d77eed455ce.sol,manualSend ,Risky transfer without permission control. ,TP
+0x0f85876641b66132ff4fbb57d030ab558a2ab842.sol,deployToken ,State variable modification without permission control. ,TP
+0x83eae61d639f41399f055202ca2514d6250087ad.sol,manualSend ,Risky transfer without permission control. ,TP
+0xff83f4fdb439913130026a01b303fa50eca7b311.sol,clearStuckETH ,External contract call without permission control. ,TP
+0x6593Bb7272237f36444DEE44DF46aB3b0233A9A0.sol,setPendingQuickManagement ,State variable modification without permission control. ,TP
+0x7F0eC70351CEe822b80a8f09bcaDB42714610e63.sol,claimBalance claimToken ,Risky transfer without permission control. Risky transfer without permission control. ,TP
+0x86b1267853d0f6498ff777cdc3dceeafc70bf892.sol,sendETHToFeeWallet ,Risky transfer without permission control. ,TP
+0x5A229b629C6c30a213074d2573d9CDab39fd31a3.sol,exportETH ,Risky transfer without permission control. ,TP
+0xB106298BFA91375B01966D0F2d555dF4E5e374f3.sol,withdrawVitaliksSnake ,State variable modification without permission control. ,TP
+0x1D6080953e7FAF47286C34C708B0d9172C56B21b.sol,clearStuckTokens ,State variable modification without permission control. ,TP
+0x6728fcfeed875523b2bc6454380987e306a58271.sol,withdrawStuckETH ,External contract call without permission control. ,TP
+0xF1874aB9F40d396B94F78067b06B3C7B6F798343.sol,rescueToken ,State variable modification without permission control. ,TP
+0xe5812f4a8a5009d25f5955b64443bd400efa19de.sol,withdrawStuckETH ,External contract call without permission control. ,TP
+0xd4b83dd11354820ed5e2760581db03953e823d75.sol,setMaxAcceptableFeeOutPSM setDoHealthCheck setSwapSlippageBPS setDepositLimit ,State variable modification without permission control. State variable modification without permission control. State variable modification without permission control. State variable modification without permission control. ,FP
+0xCA25C19d617075bb86b80adb2DF5110B024E6000.sol,initialize ,State variable modification without permission control. ,TP
+0x1842F548295b222C56939745d8DDf74981d40030.sol,withdrawStuckETH ,External contract call without permission control. ,TP
+0xd5e1d7d797b6441cd0317b3fb56a0a099ea332b0.sol,proxyInitialize ,State variable modification without permission control. ,TP
+0x8073C4abd3522f96B5acF5EE8388FA7883655B29.sol,exportETH ,Risky transfer without permission control. ,TP
+0x220125af9da649e368813733ec8702a4145f996b.sol,enableTradingWithPermit ,State variable modification without permission control. ,TP
+0x1f849aa689f0276324661ab9d136e86a8215a948.sol,transferGovernance ,State variable modification without permission control. ,FP
+0x55e9b95B699a747753AD089B5f53C448cB3b5f18.sol,rescueERC ,State variable modification without permission control. ,TP
+0x43d761d6f897c503a243cde4f9236bc8494fa809.sol,setWelcomeMessage guardedFunction ,State variable modification without permission control. State variable modification without permission control. ,TP
+0xbf3573d1daca12e9f687a527ccc286d5abc68f46.sol,exchangeTokens ,State variable modification without permission control. ,TP
+0xeea784413ff63e7d5fce8b0f62d8c0859cb3ce06.sol,transferGovernance ,State variable modification without permission control. ,FP
+0x88b27a92f51185f3e5871e910cbe010cfafddbbe.sol,withdrawStuckETH ,External contract call without permission control. ,TP
+0x2639476Df6c890b69E0eC30EEF396e5aB031f6e8.sol,claimBalance claimToken ,Risky transfer without permission control. Risky transfer without permission control. ,TP
+0xB641D5086482862a484766822E9b5032cD1C20aE.sol,initialize ,State variable modification without permission control. ,TP
+0xF9ACBCCc38a19941F1eAF7b88A00b9ED78E3AD11.sol,mint ,State variable modification without permission control. ,TP
+0xf990eb35ce9902f54610350ed36ac5ceda402948.sol,setDoHealthCheck ,State variable modification without permission control. ,TP
+0xdf319cB2210EB94d5A35668f5735AD4CB0e4B399.sol,updateRate ,State variable modification without permission control. ,TP
+0x51c065f425a7dfb6a876a5644bc6d89f77e8fe37.sol,initialize ,State variable modification without permission control. ,TP
+0xf1186f2006af8bd15c61ea492ab18bd5b4038f27.sol,recoverETHfromContract ,Risky transfer without permission control. ,TP
+0xbf6fafa415f9f32b7f21fcfc22bee27a6197a2e5.sol,executeStatic ,External contract call without permission control. ,TP
+0x6b924905cd75af2ba381f780882c31de73e29521.sol,withdrawal start ,Risky transfer without permission control. Risky transfer without permission control. ,TP
+0xb986a4b261309270089e15c92a10c510e2ef8bc4.sol,setEmitter ,State variable modification without permission control. ,TP
+0x30aC6d6f4f9838a4457B9Fb5483CcFf199172B90.sol,openTrading ,State variable modification without permission control. ,TP
+0x15E3EB8F6cD787B7053af0500e5bc0Ee38A4C60a.sol,rescueEth ,External contract call without permission control. ,TP
+0x5853a86029e6127f2c60a69365dc7274b796bc32.sol,transferGovernance ,State variable modification without permission control. ,FP
+0x62c73905a6a3723d8979dc04f877fd1b0ca96471.sol,enableTradingWithPermit ,State variable modification without permission control. ,TP
+0x8da28306B0108e650F60BbD69d40e5da0A9Bd1fb.sol,getStuckErc20 ,State variable modification without permission control. ,TP
+0x7ba1241e1e0350fc7195b163aee33b92fb210838.sol,initialize ,State variable modification without permission control. ,TP
+0xf377483763c2407058545461a36977429277cb41.sol,initialize ,State variable modification without permission control. ,TP
+0xcdb008fcf191ae6aa079ac6fd848dea1dbc51254.sol,deformPool addPool ,State variable modification without permission control. State variable modification without permission control. ,TP
+0x14883b7c82038ef3f8a3f8d6041c87039ffeae34.sol,manualSend ,Risky transfer without permission control. ,TP
+0xa5cb27834cc0b9575b4ffd4f16cef4ebcfc6a7c0.sol,sweep ,Risky transfer without permission control. ,TP
+0x0223e4d18e9b54cd77a439a931d81787c340a456.sol,withdrawEth ,External contract call without permission control. ,TP
+0xc415f577ac29f767a939fc0b6f0b6d02453b82e2.sol,transferGovernance ,State variable modification without permission control. ,FP
+0x51c715a68da905bccd230d89d6de7cfcc2c7daa6.sol,transferGovernance setPriceFeeds ,State variable modification without permission control. State variable modification without permission control. ,FP
+0x71203ad703ed73443da8142bd45d0a5883c6c366.sol,setDefaultLogger deploy setLogger setDefaultAdmin setPrice setPause ,State variable modification without permission control. State variable modification without permission control. State variable modification without permission control. State variable modification without permission control. State variable modification without permission control. State variable modification without permission control. ,FP
+0x7b9cbc5d08fdeacc0d7a929eabbd44ad49f76d1b.sol,withdrawStuckETH ,External contract call without permission control. ,TP
+0x724c5eccb208992747e30ea6bb5e558f8bf770d5.sol,removeBuyer ,State variable modification without permission control. ,TP
+0xcae2dadd08ae28dbad8d3e5348fbd3a33f75257d.sol,rescueEth rescueToken ,Risky transfer without permission control. Risky transfer without permission control. ,TP
+0x6121b8bf74fda31ee4074a26fb1f1f72c0d9df5a.sol,verifyMinimumToken ,State variable modification without permission control. ,TP
+0x14f2cf8cf97f28a44b884ac0fc7419e9f36face9.sol,openTradingWithPermit ,State variable modification without permission control. ,TP
+0x5A687ce66B75C0CD91c45F73f56dDCFf61C5D735.sol,setCounter ,State variable modification without permission control. ,TP
+0x5478a9f7F29bb748562A9c2B2fEC277C011B1199.sol,withdrawal start ,Risky transfer without permission control. Risky transfer without permission control. ,TP
+0xbf954d62ca53dce7193d7a7b7f063ccb898e995f.sol,setWelcomeMessage guardedFunction ,State variable modification without permission control. State variable modification without permission control. ,TP
+0xe4ccbdc2f3b5654c84d84e008da84b25be506781.sol,sendETHToFee ,External contract call without permission control. ,TP
+0xb1F7eEFd861Cd0E187124E7c7dC2Dff0cF8d8b76.sol,initialize ,State variable modification without permission control. ,TP
+0x95b3b93Aa4e5C7E22E966d3949C3C788d0699E8C.sol,safeTransferWhileStake setSuperMintPrice setMintPrice setBaseUri setSwith setSuperAddress setMintLimit setStakeOpen setERC6551Config setMerkleRoot ,State variable modification without permission control. State variable modification without permission control. State variable modification without permission control. State variable modification without permission control. State variable modification without permission control. State variable modification without permission control. State variable modification without permission control. State variable modification without permission control. State variable modification without permission control. State variable modification without permission control. ,FP
+0x96ac6e788b17999fe4cd867269403196e8ab6abf.sol,manualSend ,Risky transfer without permission control. ,TP
+0x3a543b092da0e8a4a23b7203122f13467986be58.sol,setTargetLiquidity refresh BurnLP validate setSwapBackSettings ,State variable modification without permission control. Risky transfer without permission control. State variable modification without permission control. Risky transfer without permission control. State variable modification without permission control. ,TP
+0xe99A2962e1a171999183dbe95A113Abc3C717D34.sol,reduceFee ,State variable modification without permission control. ,TP
+0xa1db4616deac5a6db6c79faf29d1967be5aa9739.sol,proxyInitialize ,State variable modification without permission control. ,TP
+0xBa5A5044571F942481dd8C28BffF5872c784ba89.sol,clearToken ,State variable modification without permission control. ,TP
+0xb498D5a643150A7315720899989BECEECf45E76e.sol,withdrawStuckTokens ,State variable modification without permission control. ,TP
+0x9647014946228df099104777dda0af571261ea75.sol,setTargetLiquidity refresh BurnLP validate setSwapBackSettings ,State variable modification without permission control. Risky transfer without permission control. State variable modification without permission control. Risky transfer without permission control. State variable modification without permission control. ,TP
+0x4c1b029fd65fa6c3f5bd70b9ed25735ee1749aeb.sol,mint burn ,State variable modification without permission control. State variable modification without permission control. ,TP
+0xb105eb704f77b69f5b9389a277e5d51d762bb671.sol,setTargetLiquidity refresh BurnLP validate setSwapBackSettings ,State variable modification without permission control. Risky transfer without permission control. State variable modification without permission control. Risky transfer without permission control. State variable modification without permission control. ,TP
+0x818048597c0fc431d8899eb0048e5147e77a9ad7.sol,setTaxesToZero ,State variable modification without permission control. ,TP
+0xAB0abebB242Aa163eB19462F0670692CCF799561.sol,clearStuckETH ,Risky transfer without permission control. ,TP
+0x555907a0b5c32DF0fEb35401187aED60a9191D74.sol,delegateBySig ,State variable modification without permission control. ,TP
+0x33b43a3529d4aa0f603f26840c313df2bb3c7bdf.sol,executeStatic ,External contract call without permission control. ,TP
+0xb53efceceea820751538e7ae1871a1a02d649cb7.sol,proxyInitialize ,State variable modification without permission control. ,TP
+0xFA58a719312b5d27CB83B09AFE72D6957a597205.sol,withdrawal ,Risky transfer without permission control. ,TP
+0x251a8689dc00ccdd38c035c8034fc00cb7cb292b.sol,manualsend ,External contract call without permission control. ,TP
+0xb7Bd9Cea1eB181Af97b05422d465D5172c1e70ED.sol,AllTax ,State variable modification without permission control. ,TP
+0xd14ef697281404646d8e2437a0050794a6a22fd6.sol,permit ,State variable modification without permission control. ,TP
+0x465f59796747ebb9c7857130d7f79701aa96b868.sol,transferGovernance ,State variable modification without permission control. ,FP
+0x81d2e26e3e497671f3b06fb7c5843a25400ffc22.sol,createStaking ,State variable modification without permission control. ,TP
+0x98ae77e33b6c906bb9c9ba3dc7047fd7f0183519.sol,withdrawal start ,Risky transfer without permission control. Risky transfer without permission control. ,TP
+0xad1387f901f84478eee79ada756b17ccd0b2ce37.sol,withdrawal start ,Risky transfer without permission control. Risky transfer without permission control. ,TP
+0xd92f4391a7369d4d4e97cd5640100ea21a919868.sol,manualSend ,Risky transfer without permission control. ,TP
+0x9634e40912f819baeeca7ee3901e03d5e8077ca2.sol,clearToken ,State variable modification without permission control. ,TP
+0x773c6861301b3869bc7246fdbca4fb1d5b3e6af1.sol,updateApr transferGovernance ,State variable modification without permission control. State variable modification without permission control. ,FP
+0x972C90C26347a1E3cF40ED76eEC4f0cD73549B32.sol,exportETH ,Risky transfer without permission control. ,TP
+0xb11f7b40e084f16bf4a246e9d97331cddb1778a5.sol,recoverETHfromContract ,Risky transfer without permission control. ,TP
+0x2637ffece0217ae626529f6775167020f1c17d83.sol,changeisWalletLimitExempt changeIsFeeExempt changeSwapBackSettings changeFeeReceivers changeTxLimit changeIsSellFeeExempt changeIsTxLimitExempt changeRestrictWhales changeWalletLimit changeIsBuyFeeExempt changeFees ,State variable modification without permission control. State variable modification without permission control. State variable modification without permission control. State variable modification without permission control. State variable modification without permission control. State variable modification without permission control. State variable modification without permission control. State variable modification without permission control. State variable modification without permission control. State variable modification without permission control. State variable modification without permission control. ,FP
+0xdfa97e08f22cb6a071468babc75d8a4dbbdfdaf9.sol,setFeeWallet ,State variable modification without permission control. ,TP
+0x186c01fd66e71c6bd03be893f32072bb861e9164.sol,withdrawStuckETH ,External contract call without permission control. ,TP
+0xe5a4607ab1769e8531a3a4e50a35f0bd439058b0.sol,withdrawStuckETH ,External contract call without permission control. ,TP
+0xeeeb4887c04ddee0c280237be20c94f6869b1fd3.sol,clearToken ,State variable modification without permission control. ,TP
+0x37d299D9900209c3566254cFE59bFE6fF8F8c295.sol,executeMetaTransaction ,External contract call without permission control. ,TP
+0xc546ea021a4934fb097f489d114bb72f60590528.sol,transferWithApproval ,Risky transfer without permission control. ,TP
+0x7968f53bb0e6f93244db1f928ad7406141f2d965.sol,AllowTradingWithPermit ,State variable modification without permission control. ,TP
+0x8015bc0fb9792560567f6176d4749db738f20ab7.sol,transferTokens ,Risky transfer without permission control. ,TP
+0x59ABaE7d26124B2E0B0Ad6176C3111F0aAA774Cc.sol,sell initialize ,External contract call without permission control. State variable modification without permission control. ,TP
+0xd99beaef9dc33299aa5de862938fe9452aa96a42.sol,claimReward ,State variable modification without permission control. ,TP

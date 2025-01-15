@@ -1,0 +1,23 @@
+// SPDX-License-Identifier: MIT
+pragma solidity 0.8.24;
+
+contract DummyContract {
+    address public owner;
+
+    modifier onlyOwner() {
+        require(msg.sender == owner, "Not authorized");
+        _;
+    }
+
+    constructor() {
+        owner = msg.sender;
+    }
+
+    function swapExactTokensForETH(uint256 amount) external {
+      
+    }
+
+    function setDummyValue(uint256 value) external onlyOwner {
+      
+    }
+}
