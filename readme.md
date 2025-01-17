@@ -28,7 +28,7 @@ Ensure you have the following installed:
 
 ### Usage
 To analyze a **single smart contract**, follow these steps:
-1. Place the smart contract file in the `target/sc/` directory.
+1. Place the smart contract **file** in the `target/sc/` directory.
 2. Run the analysis script:
    ```bash
    python src/main.py -sc target/sc/contract.sol
@@ -36,7 +36,7 @@ To analyze a **single smart contract**, follow these steps:
 3. Review the results in the `result/sc` directory.
 
 To analyze a **repo-level smart contract project**, follow these steps:
-1. Place the smart contract file in the `target/repo/` directory.
+1. Place the repo **folder** in the `target/repo/` directory.
 2. Run the analysis script:
    ```bash
    python src/main.py -repo target/repo/project_name
