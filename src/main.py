@@ -6,7 +6,7 @@ def main():
     '''
     python main.py -[analyze_type] [target_path]
 
-    analyze_type: 'sc'(smart contract) or 'dapp'(DApp)
+    analyze_type: 'sc'(smart contract) or '-repo'(repo-level project)
     target_path: ./path/to/your/file(directory)
     '''
     if len(sys.argv) == 3:
@@ -14,10 +14,10 @@ def main():
         target_path = sys.argv[2]
         if analyze_type == 'sc':
             SmartContractAnalyze(target_path)
-        elif analyze_type == 'dapp':
+        elif analyze_type == 'repo':
             DAppAnalyze(target_path)
         else:
-            print("Analyze type error. Type should be like '-sc'(smart contract) or '-dapp'(DApp)")
+            print("Analyze type error. Type should be like '-sc'(smart contract) or '-repo'(repo-level project)")
     else:
         print("Parameters error. Command should be like 'python main.py [analyze_type] [target_path]'")
         pass
