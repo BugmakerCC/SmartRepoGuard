@@ -1,6 +1,6 @@
 # SmartRepoGuard
 
-**SmartRepoGuard** is a tool designed to detect and analyze security issues in repository-level smart contract projects 🔥. This repo is an artifact of our paper 📖 **SmartRepoGuard: Safeguarding Repository-level Smart Contract Projects from Access Control Vulnerabilities**. The source code of tool, instructions, and data of evaluation are included in this repo.
+**SmartRepoGuard** is a tool designed to detect and analyze security issues in repository-level smart contract projects 🔥. This repo is an artifact of our paper 📖 **SmartRepoGuard: Safeguarding Repository-level Smart Contract Projects from Access Control Vulnerabilities**.
 
 <img src="overview.png" alt="Project Overview" title="This is the project verview" width="700" height="300" style="display: block; margin: auto;">
 
