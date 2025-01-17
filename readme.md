@@ -44,8 +44,9 @@ To analyze a **repo-level smart contract project**, follow these steps:
 3. Review the results in the `result/repo` directory.
 
 
-> ⚠️  **Note** 
-When analyzing a repo-level smart contract project, API key for LLM is required (The key needs to be filled in `src/API_call.py`, and users can switch LLMs to use by adjusting the configuration in this file). To obtain the key, please refer to [https://www.gptapi.us/](https://www.gptapi.us/).
+> ⚠️  **Note**
+> 
+> When analyzing a repo-level smart contract project, API key for LLM is required (The key needs to be filled in `src/API_call.py`, and users can switch LLMs to use by adjusting the configuration in this file). To obtain the key, please refer to [https://www.gptapi.us/](https://www.gptapi.us/).
 
 
 ## Structure
@@ -83,8 +84,9 @@ This folder stores the results output by the tool after analyzing the target fil
 - `requirements.txt`
 A file listing the Python dependencies necessary for running the tool.
 
-> ⚠️  **Note** 
-Please avoid making arbitrary changes to the file paths defined by the project, as this may result in execution failures.
+> ⚠️  **Note**
+>
+> Please avoid making arbitrary changes to the file paths defined by the project, as this may result in execution failures.
 
 ## Contact
 🙋 For any questions or feedback, please reach out to the repository maintainer or create an issue in this GitHub repository.
